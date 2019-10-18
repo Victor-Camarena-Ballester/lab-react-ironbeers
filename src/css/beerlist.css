@@ -1,0 +1,12 @@
+.img-wrap__beerlist {
+  width: 50px;
+  padding: 20px;
+}
+.img-wrap__beerlist img {
+  width: 100%;
+}
+.card__beerlist {
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #adacac;
+}
